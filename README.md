@@ -1,2 +1,2 @@
 # note-picker
-Use this to practice your understanding of the fretboard, the program picks a random note and a random order of the string in which you must find the note and play it.
+Use this to practice your understanding of the fretboard. This program picks a random note to play, and a random order of the strings in which you must find that note and play it on your fretboard.
